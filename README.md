@@ -1,0 +1,2 @@
+# gslink.hackerone.com
+Takeover
